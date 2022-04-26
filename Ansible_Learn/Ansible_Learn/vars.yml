@@ -1,0 +1,5 @@
+---
+left_web_server: TestWEB-L2
+router_left: RouterL2
+right_web_server: TestWEB-R2
+router_right: RouterR2
